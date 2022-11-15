@@ -1,0 +1,79 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.autoDetectColorScheme": true,
+    "window.autoDetectHighContrast": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "zenMode.restore": false,
+    "zenMode.hideTabs": false,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "telemetry.telemetryLevel": "off",
+    "security.workspace.trust.startupPrompt": "never",
+    "files.associations": {
+        "*.asm": "plaintext"
+    },
+    "http.systemCertificates": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "update.enableWindowsBackgroundUpdates": false,
+    "update.showReleaseNotes": false,
+    "security.workspace.trust.enabled": false,
+    "update.mode": "none",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "helium-icon-theme.folders.color": "#90a4ae",
+    "helium-icon-theme.saturation": 1,
+    "workbench.productIconTheme": "feather-vscode",
+    "java.home": "c:\\Users\\Andy\\Processing\\java",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "livePreview.notifyOnOpenLooseFile": false,
+    "doxdocgen.file.copyrightTag": [
+        "@copyright Copyright (c) {year}"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontFamily": "Comic Mono",
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "omnisharp.enableDecompilationSupport": true,
+    "dotnetAcquisitionExtension.enableTelemetry": false,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "window.menuBarVisibility": "classic",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "fluent.disableFilters": false,
+    "vscode_custom_css.imports": [
+        "file:\\\\\\C:\\Users\\Andy\\Programming\\CleanCode\\main.css"
+    ],
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "tabnine.experimentalAutoImports": true,
+    "Lua.telemetry.enable": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "GitHub Dark"
+}
